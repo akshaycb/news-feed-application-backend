@@ -1,4 +1,3 @@
-# FINBACK670 Assessment
 
 ## Available Scripts
 
